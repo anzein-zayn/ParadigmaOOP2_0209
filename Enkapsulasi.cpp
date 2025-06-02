@@ -32,5 +32,5 @@ int main ()
     cout << lampurRumah.getSaklarNo(2) << endl;
     cout << lampurRumah.getSaklarNo(3) << endl;
 
-    return 0
+    return 0;
 }
