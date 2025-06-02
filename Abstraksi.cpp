@@ -27,5 +27,5 @@ int main ()
     ak.setXY("Yogyakarta", "Kampurs");
     ak.display();
 
-    return 0:
+    return 0;
 }
