@@ -18,3 +18,8 @@ public:
         cout << "Pesan dari Lia" << endl;
     }
 };
+
+class lia : public seseorang
+{
+
+};
